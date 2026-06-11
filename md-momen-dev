@@ -1,0 +1,42 @@
+# MDMomenst3 Creator
+
+**A powerful Chrome extension / web tool to help creators build, manage, and grow their projects faster.**
+
+![GitHub stars](https://img.shields.io/github/stars/mdmomenst3/mdmomenst3-creator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mdmomenst3/mdmomenst3-creator?style=social)
+![License](https://img.shields.io/github/license/mdmomenst3/mdmomenst3-creator)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
+---
+
+## 🌐 Live Demo
+
+**[🚀 View Live Demo](https://YOUR-USERNAME.github.io/mdmomenst3-creator)**
+
+*(Replace `YOUR-USERNAME` with your actual GitHub username after GitHub Pages is deployed)*
+
+---
+
+## ✨ Features
+
+- ⚡ **Fast Setup** – Ready-to-use template with manifest.json and modern structure
+- 🎨 **Clean & Modern UI** – Built with clean HTML, CSS and JavaScript
+- 🔧 **Highly Customizable** – Easy to modify for any creator tool or extension
+- 📱 **Responsive Design** – Works perfectly on desktop and mobile
+- 🚀 **Production Ready** – Includes best practices for GitHub, deployment, and publishing
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots here after you build your UI – they dramatically increase stars and interest)*
+
+---
+
+## 🚀 Quick Start
+
+### For Chrome Extension Users
+
+1. **Clone or Use this Template**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/mdmomenst3-creator.git
